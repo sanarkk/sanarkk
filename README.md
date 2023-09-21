@@ -16,19 +16,17 @@
   <h1>
     Hey there 👋
   </h1>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
 
 ---
 ### :man_technologist: About me
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
-  - 🌱 I’m currently expanding on practice Django REST Framework knowledge.
+  - 🌱 Currently expanding on practice Django REST Framework knowledge.
   - 💬 I'm on my way to become a backend developer - Django Rest Framework.
   - 📫 How to reach me: oleksandr.dimbrovskyi@gmail.com
-  - I know Python, JavaScript, HTML/CSS, Django, DjangoREST, React.js, PostgreSQL, MySQL, Git, AWS, Linux.
 
 ---
 
@@ -51,4 +49,4 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sanarkk&show_icons=true&layout=compact&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanarkk&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanarkk&layout=compact&theme=vision-friendly-dark)
