@@ -8,9 +8,6 @@
     <a href="https://www.linkedin.com/in/oleksandr-dimbrovskyi-17b00b205/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://drive.google.com/file/d/1XuVdlRfO9uqGRi2ymgUMgGbBaIEG9JW6/view">
-      <img src="https://img.shields.io/badge/CV-red?logo=CV&logoColor=white&style=for-the-badge" alt="CV Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=sanarkk&style=flat-square&color=blue" alt=""/>
   <h1>
