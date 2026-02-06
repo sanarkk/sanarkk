@@ -2,7 +2,6 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/oleksandr-dimbrovskyi-17b00b205/">
@@ -17,7 +16,7 @@
 
 
 ### :man_technologist: About me
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> located in Winnipeg.
   - 🌱 Currently expanding on practice FastAPI and MongoDB knowledge.
   - 💬 I'm on my way to become a backend developer.
   - 📫 How to reach me: oleksandr.dimbrovskyi@gmail.com
@@ -39,10 +38,3 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sanarkk&show_icons=true&layout=compact&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanarkk&layout=compact&theme=vision-friendly-dark)
